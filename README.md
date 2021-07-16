@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LoganBellmond
-- 👀 I’m interested in photography, music, computers, skateboards, old books, tactical gear, coffee, video games, clothing
-- 🌱 I’m currently learning ... Html, Css, Python
+- 👀 I’m interested in photography, music, computers, skateboards, old books, tactical gear, coffee, video games, clothing, art
+- 🌱 I’m currently learning ... Html, Css, Python, and Javascript
 - 💞️ I’m looking to collaborate on ... Websites!
-- 📫 How to reach me ... Loganbellmond1@gmail.com
+- 📫 How to reach me ... Loganbellmond1@gmail.com Instagram.... Lowwwgin
 
 <!---
 LoganBellmond/LoganBellmond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
